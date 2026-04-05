@@ -1,6 +1,6 @@
-# NENet Northpreneurs Dashboard
+# Ghengis Preneurs Dashboard
 
-An interactive analytics dashboard for the Northern Ghana Entrepreneurs Network (NENet) baseline assessment.
+An interactive analytics dashboard .
 
 ## Quick Start
 
